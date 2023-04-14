@@ -1,6 +1,8 @@
 # leaflet-challenge
 Module 15 Challenge For Bootcamp: UTA-VIRT-DATA-PT-12-2022-U-LOLC-MTTH
 
+Webpage can be viewed here: https://mikamohd.github.io/leaflet-challenge/
+
 When the desired earthquake is selected, the following information will appear in a pop-up box:
     - Type of Earthquake
     - Magnitude of Earthquake
